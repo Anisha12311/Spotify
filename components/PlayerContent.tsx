@@ -1,6 +1,7 @@
 import { Song } from "@/types";
-import useSound from "use-sound";
+//@ts-ignore
 
+import useSound from "use-sound";
 import React, { useState, useEffect } from "react";
 import { AiFillStepForward, AiFillStepBackward } from "react-icons/ai";
 import { IoMdContract } from "react-icons/io";
