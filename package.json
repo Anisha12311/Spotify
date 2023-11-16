@@ -10,12 +10,14 @@
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-slider": "^1.1.2",
     "@supabase/auth-helpers-nextjs": "^0.8.7",
     "@supabase/auth-helpers-react": "^0.4.0",
     "@supabase/auth-ui-react": "^0.4.6",
     "@supabase/auth-ui-shared": "^0.1.8",
     "@types/uniqid": "^5.3.4",
     "next": "14.0.2",
+    "query-string": "^8.1.0",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.48.2",
@@ -24,6 +26,7 @@
     "stripe": "^14.4.0",
     "tailwind-merge": "^2.0.0",
     "uniqid": "^5.4.0",
+    "use-sound": "^4.0.1",
     "zustand": "^4.4.6"
   },
   "devDependencies": {
